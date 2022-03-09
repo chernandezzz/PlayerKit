@@ -14,6 +14,6 @@ let package = Package(
         .target(
             name: "Playerkit",
             dependencies: [],
-            path: "Source"),
+            path: "Sources"),
     ]
 )
